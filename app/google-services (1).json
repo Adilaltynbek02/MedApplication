@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9522281375",
+    "project_id": "crypto-52a4b",
+    "storage_bucket": "crypto-52a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9522281375:android:5c93b3d65f4da4a95f1baa",
+        "android_client_info": {
+          "package_name": "com.example.medapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9522281375-vn213sssnmvturnnlvalbi7sleadv11o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medapp",
+            "certificate_hash": "d7eabde25ac7d833396a01847d37d6805cedac79"
+          }
+        },
+        {
+          "client_id": "9522281375-j6e853kdbk77ljtg5q8egk4fte41lolb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm6RncXQA9gzd6cSi4yTOoG4P5bkbPGHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9522281375-j6e853kdbk77ljtg5q8egk4fte41lolb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
